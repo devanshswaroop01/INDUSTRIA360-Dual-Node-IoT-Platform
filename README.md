@@ -302,5 +302,3 @@ On CRITICAL → Master triggers:
 
 ---
 
-
-Just say: **“Generate diagrams”** or **“Create report”**.
